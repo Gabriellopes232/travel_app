@@ -19,7 +19,7 @@ const Navbar = () => {
           ))}
         </ul>
 
-        <div className="lg: flexCenter hidden">
+        <div className="lg:flexCenter hidden">
           <Button
             type="button"
             title="Login"
